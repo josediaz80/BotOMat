@@ -1,0 +1,8 @@
+﻿[
+  { "Type": "Unipedal" },
+  { "Type": "Bipedal" },
+  { "Type": "Quadrupedal" },
+  { "Type": "Arachnid" },
+  { "Type": "Radial" },
+  { "Type": "Aeronautical" }
+]
